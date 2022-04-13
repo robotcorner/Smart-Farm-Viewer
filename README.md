@@ -4,6 +4,8 @@ The purpose of this app is to visualize smart farm data.
 ## Usage
 It will be used by a farm owner or manager to look at their field sensors data and judge how the soil is doing. This will allow them to make better decisions about how to keep the field and areas of it healthy.
 
+View on Heroku! -> [Link]()
+
 ## Installing Requirements
 
 ### Instructions on how to get the Prerequisits
@@ -86,7 +88,6 @@ print(f"Updated Input: {updated}")
 #### Maintainers:
 - Current Mainatiners:
     - github/robotcorner
-    - github/dandeto
 - Previous Maintainers:
     - 
 

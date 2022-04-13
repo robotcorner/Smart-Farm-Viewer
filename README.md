@@ -4,7 +4,7 @@ The purpose of this app is to visualize smart farm data.
 ## Usage
 It will be used by a farm owner or manager to look at their field sensors data and judge how the soil is doing. This will allow them to make better decisions about how to keep the field and areas of it healthy.
 
-View on Heroku! -> [Link]()
+View on Heroku! -> [Link](https://smart-farm-viewer.herokuapp.com/pages/farm_overview)
 
 ## Installing Requirements
 

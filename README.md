@@ -87,11 +87,11 @@ print(f"Updated Input: {updated}")
 
 #### Maintainers:
 - Current Mainatiners:
-    - github/robotcorner
+    - N/A 
 - Previous Maintainers:
-    - 
+    - github/robotcorner
 
 #### Timeline:
-- This project started in September 2021.
+- This project started in September 2021. It ended in April 2022.
 
 

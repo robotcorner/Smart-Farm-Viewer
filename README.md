@@ -45,7 +45,7 @@ https://github.com/jazzband/pip-tools
 ## Maintaining and Developing the App
 Need help on UI? 
 - [Dash Bootstrap Component Examples](https://github.com/facultyai/dash-bootstrap-components/tree/main/examples/python/advanced-component-usage)
-- [Dash Bootstrap Compoenente Docs](https://dash-bootstrap-components.opensource.faculty.ai/)
+- [Dash Bootstrap Component Docs](https://dash-bootstrap-components.opensource.faculty.ai/)
 
 ### Architecture Notes:
 
